@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Harshal Bhat, currently pursuing MS Robotics at Worcester Polytechnic Institute, MA
 - 👀 I’m interested in Autonomous Robotics
-- 🌱 I’m currently learning AI for vision based motion planning
-- 💞️ I’m looking to collaborate on Autonomous vehicle controls software stack
+- 🌱 I’m currently learning AI for vision based motion planning and computer vision applications
+- I’m looking to collaborate on Autonomous vehicle controls and perception software stack
 - 📫 How to reach me: harshalbhat14@gmail.com
 
 <!---
